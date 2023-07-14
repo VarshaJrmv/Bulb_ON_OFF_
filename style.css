@@ -1,0 +1,14 @@
+body{
+    background:url("./bulbbg.jpg");
+    background-size: cover;
+}
+h1{
+    color:aqua;
+    text-align: center;
+    height:150x;
+    
+}
+img{
+    padding-top:75px;
+    padding-left: 500px;
+}
